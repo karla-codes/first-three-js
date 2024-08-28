@@ -1,0 +1,6 @@
+# Project-generated files
+node_modules
+package-lock.json
+
+# Locally-generated files
+.DS_Store
